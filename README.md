@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **Splunk , Playwright Scripting**
 
-- 👨‍💻 All of my projects are available at [https://vanshika1807.github.io/portfolio_website/](https://vanshika1807.github.io/portfolio_website/)
+- 👨‍💻 All of my projects are available at but it still in progress [https://vanshika1807.github.io/portfolio_website/](https://vanshika1807.github.io/portfolio_website/)
 
-- 📝 I regularly write articles on [https://vanshikasingh.in](https://vanshikasingh.in)
+- 📝 I regularly write articles on adn I am still working on it - site is not eployed yet [https://vanshikasingh.in](https://vanshikasingh.in)
 
 - 💬 Ask me about **Spring Boot & Java**
 
