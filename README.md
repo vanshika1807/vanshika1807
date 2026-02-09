@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **DB Sentinel - A tool that you can integrate to your project so that you can check your DB health.**
 
-- 💬
+- 💬 Also, I have particiated a Digital Ocean Hackathon, working on this project - https://github.com/vanshika1807/Opero
 
 - 🌱 I’m currently learning **Splunk , Playwright Scripting**
 
