@@ -1,6 +1,6 @@
 [![MasterHead](https://media4.giphy.com/headers/GitHub/w8ZJLtJbmuph.gif)]( https://vanshikasingh.in)
 <h1 align="center">Hi 👋, I'm Vanshika Singh</h1>
-<h3 align="center">I am trying to be a Java Full Stack Developer passionate about sleek web apps, cloud-native projects, and AI tools.</h3>
+<h3 align="center">I am trying to be a tech geek, passionate about learning new tech stack, cloud-native projects, and AI tools.</h3>
 <img align="right" alt="Work" width="400" src="https://cdn.dribbble.com/userupload/21247777/file/original-adca76f3e0ad6865a92cefa9d5d793ff.gif">
 
 - 🔭 I’m currently working on **DB Sentinel - A tool that you can integrate to your project so that you can check your DB health.**
