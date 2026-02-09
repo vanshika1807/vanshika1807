@@ -5,13 +5,13 @@
 
 - 🔭 I’m currently working on **DB Sentinel - A tool that you can integrate to your project so that you can check your DB health.**
 
+- 💬
+
 - 🌱 I’m currently learning **Splunk , Playwright Scripting**
 
 - 👨‍💻 All of my projects are available at this link but it is still in progress [https://vanshika1807.github.io/portfolio_website/](https://vanshika1807.github.io/portfolio_website/)
 
-- 📝 I regularly write articles on my personal website but I am still working on it - site is not deployed yet [https://vanshikasingh.in](https://vanshikasingh.in)
-
-- 💬 Ask me about **Spring Boot & Java**
+<!-- 📝 I regularly write articles on my personal website but I am still working on it - site is not deployed yet [https://vanshikasingh.in](https://vanshikasingh.in)-->
 
 - 📫 How to reach me **vanshika18072001@gmail.com**
 
