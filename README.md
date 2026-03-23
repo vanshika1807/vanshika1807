@@ -13,7 +13,7 @@
 
 <!-- 📝 I regularly write articles on my personal website but I am still working on it - site is not deployed yet [https://vanshikasingh.in](https://vanshikasingh.in)-->
 
-- 📫 How to reach me **vanshika18072001@gmail.com**
+- 📫 How to reach me **vanshikasinghportfolio@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
